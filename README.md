@@ -11,7 +11,6 @@ I am passionate about solving problems and learning. Always open to new challeng
 👨‍🎓 Programming student
 
 Reach me out 👇
-Likedin : https://www.linkedin.com/in/wesley-roberts-9714a7189
 
 [![Twitter Badge](https://img.shields.io/badge/-@wesleyroberts_oficial-6633cc?style=flat-square&labelColor=6633cc&logo=Instagram&logoColor=white&link=https://instagram.com/wesleyroberts_oficial?igshid=1oxavoi5v5igd)](https://instagram.com/wesleyroberts_oficial?igshid=1oxavoi5v5igd) 
 [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Roberts-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-roberts-9714a7189/)](https://www.linkedin.com/in/wesley-roberts-9714a7189/) 
