@@ -2,7 +2,7 @@
 # Hello World 😄👋
 My name is Wesley Roberts, I'm from Brazil 🇧🇷 I am a University of Information Systems.
 
-I am passionate about solving problems and learning. Always open to new challenges and new changes to face in an agile and creative way.
+I am a young man passionate about technology 👨‍💻 , I love 🥰 to interact with people, I have a lot of ease in communicating and expressing myself in the social environment 👨‍🏫🎤. I love to present seminars in college and give lectures on a certain technology . I am currently looking for my first opportunity in the world of programming, to overcome challenges and generate solutions.
 
 
 #### **🌎" Quanto mais eu sei, mais eu sou"🧠**
