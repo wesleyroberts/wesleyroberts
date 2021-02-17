@@ -16,5 +16,5 @@ Reach me out 👇
 [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Roberts-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-roberts-9714a7189/)](https://www.linkedin.com/in/wesley-roberts-9714a7189/) 
 [![Gmail Badge](https://img.shields.io/badge/-wesleyroberts.office@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:wesleyroberts.office@gmail.com)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FBregaBregoso-pernambuco-bandeira-35ONGL2lEG8bL55iq8&psig=AOvVaw1MshwOBVhAMat74c64wAYF&ust=1613659938131000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjJ2-yV8e4CFQAAAAAdAAAAABAD)
+
