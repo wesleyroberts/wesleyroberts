@@ -16,5 +16,3 @@ Reach me out 👇
 [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Roberts-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-roberts-9714a7189/)](https://www.linkedin.com/in/wesley-roberts-9714a7189/) 
 [![Gmail Badge](https://img.shields.io/badge/-wesleyroberts.office@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:wesleyroberts.office@gmail.com)
 
-![Alt Text](https://media.giphy.com/media/PSKAppO2LH56w/giphy.gif)
-
