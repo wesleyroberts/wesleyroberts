@@ -15,3 +15,5 @@ Reach me out 👇
 [![Twitter Badge](https://img.shields.io/badge/-@wesleyroberts_oficial-6633cc?style=flat-square&labelColor=6633cc&logo=Instagram&logoColor=white&link=https://instagram.com/wesleyroberts_oficial?igshid=1oxavoi5v5igd)](https://instagram.com/wesleyroberts_oficial?igshid=1oxavoi5v5igd) 
 [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Roberts-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-roberts-9714a7189/)](https://www.linkedin.com/in/wesley-roberts-9714a7189/) 
 [![Gmail Badge](https://img.shields.io/badge/-wesleyroberts.office@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:wesleyroberts.office@gmail.com)
+
+img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
