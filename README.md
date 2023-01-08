@@ -1,23 +1,6 @@
 
-# Hello World 😄👋
-My name is Wesley Roberts, I'm from Brazil 🇧🇷 I am a University of Information Systems.
-
-I am a young man passionate about technology 👨‍💻 , I love 🥰 to interact with people, I have a lot of ease in communicating and expressing myself 🕺 in the social environment . I love to present seminars in college and give lectures on a certain technology 👨‍🏫🎤. I am currently improving professionally as an intern at Liferay 🧑‍🚀.
-
-
-#### **🌎" Quanto mais eu sei, mais eu sou"🧠**
-
-📍 From PE living in Igarassu city
-👨‍🎓 Programming student
-
-Reach me out 👇
-
-[![Twitter Badge](https://img.shields.io/badge/-@wesleyroberts_oficial-6633cc?style=flat-square&labelColor=6633cc&logo=Instagram&logoColor=white&link=https://instagram.com/wesleyroberts_oficial?igshid=1oxavoi5v5igd)](https://instagram.com/wesleyroberts_oficial?igshid=1oxavoi5v5igd) 
-[![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Roberts-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-roberts-9714a7189/)](https://www.linkedin.com/in/wesley-roberts-9714a7189/) 
-[![Gmail Badge](https://img.shields.io/badge/-wesleyroberts.office@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:wesleyroberts.office@gmail.com)
-
 <h1 align="center">Hi 👋, I'm Wesley Roberts</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyroberts&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyroberts" /> </p>
 
