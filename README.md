@@ -6,7 +6,7 @@
 ### <div align="center">I'm Wesley Roberts, a full-time backend developer 👨‍💻 working at Liferay since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Liferay](https://www.liferay.com/)  
   
 
 - 🌱 I’m currently learning Frontend skills and Elastcsearch  
