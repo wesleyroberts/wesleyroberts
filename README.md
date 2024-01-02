@@ -1,3 +1,7 @@
+  <p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+  
 ```java
 import com.br.desenvolvedor*;
 
@@ -24,7 +28,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Frot-end Developer (Jr)** \
 [**Vertigo**](https://vertigo.com.br/) • Full-time \
 Linguagens & Tecnologias: `Java`, `Mysql`, `Docker`, `Freemarker`, `MVC Portlet`, `ElastichSearch`\
-Projetos em destaque: [B3]()
+Projetos em destaque: [B3](https://www.b3.com.br/pt_br/para-voce)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Liferay" src="https://media.licdn.com/dms/image/C560BAQHMQOUn-7Cbqg/company-logo_100_100/0/1630621182100/liferay_inc__logo?e=1712188800&v=beta&t=vIsUtU080DWdVW57COFtU0xpWQG5fyQsVqtz2vyUJT8"/>](https://www.liferay.com/)
@@ -38,12 +42,23 @@ Projetos em destaque: : [Klabin](https://klabin.com.br/), [Smiles](https://www.s
 [<img align="left" height="94px" width="94px" alt="youtube" src="https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_200_200/0/1631053379845/youtube_logo?e=1712188800&v=beta&t=xcDN31UytqV0Y8eT3cM4ka-FGYwWlVhPkWKXV4wJv7A"/>](https://youtube.com.br/)  
 
 **Creador de Conteúdo** \
-[**Youtube**](https://www.liferay.com/pt/home?utm_medium=pd-search&utm_source=google&utm_content=brand&utm_cid=7014u000001ASAjAAO&gad_source=1&gclid=CjwKCAiA4smsBhAEEiwAO6DEjUtiK4caGFOBNGAQyXKqfAIsEXlagf_4ABenbNpRud55lHmhDHJ0YBoCWS4QAvD_BwE) • Hobby \
+[**Youtube**](https://www.youtube.com/@revisandocodigo9273) • Hobby \
 Linguagens & Tecnologias: `Java` e `Liferay` \
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/wesley-roberts-9714a7189/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
+<br>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,discord,docker,html,idea,java,linux,mysql,postman,vscode&perline=14" />
+  </a>
+</p>
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
@@ -55,3 +70,4 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/wesley-roberts-
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
+
