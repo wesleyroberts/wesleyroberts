@@ -25,7 +25,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8eTv96_utQKKErdlSABMGD1ZGHoiKzo9Ezy7AGvEM3JzQT0gfDzITz8OrHn1UefwX8s&usqp=CAU"/>](https://vertigo.com.br/)
 
-**Frot-end Developer (Jr)** \
+**Liferay Mid Software Developer** \
 [**Vertigo**](https://vertigo.com.br/) • Full-time \
 Linguagens & Tecnologias: `Java`, `Mysql`, `Docker`, `Freemarker`, `MVC Portlet`, `ElastichSearch`\
 Projetos em destaque: [B3](https://www.b3.com.br/pt_br/para-voce)
