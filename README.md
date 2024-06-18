@@ -31,7 +31,7 @@ Linguagens & Tecnologias: `Java`, `Mysql`, `Docker`, `Freemarker`, `MVC Portlet`
 Projetos em destaque: [B3](https://www.b3.com.br/pt_br/para-voce)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Liferay" src="https://media.licdn.com/dms/image/C560BAQHMQOUn-7Cbqg/company-logo_100_100/0/1630621182100/liferay_inc__logo?e=1712188800&v=beta&t=vIsUtU080DWdVW57COFtU0xpWQG5fyQsVqtz2vyUJT8"/>](https://www.liferay.com/)
+[<img align="left" height="94px" width="94px" alt="Liferay" src="https://github.com/wesleyroberts/wesleyroberts/assets/69482890/c6b9f118-0b86-4082-9a8a-37ed33765959"/>](https://www.liferay.com/)
 
 **Software Engineer** \
 [**Liferay**](https://www.liferay.com/pt/home?utm_medium=pd-search&utm_source=google&utm_content=brand&utm_cid=7014u000001ASAjAAO&gad_source=1&gclid=CjwKCAiA4smsBhAEEiwAO6DEjUtiK4caGFOBNGAQyXKqfAIsEXlagf_4ABenbNpRud55lHmhDHJ0YBoCWS4QAvD_BwE) • Full-time \
@@ -39,7 +39,7 @@ Linguagens & Tecnologias: `Java`, `Mysql`, `Docker`, `Freemarker`, `MVC Portlet`
 Projetos em destaque: : [Klabin](https://klabin.com.br/), [Smiles](https://www.smiles.com.br/home), [KLM](https://www.klm.com.br/)
 <br/>  
 
-[<img align="left" height="94px" width="94px" alt="youtube" src="https://media.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_200_200/0/1631053379845/youtube_logo?e=1712188800&v=beta&t=xcDN31UytqV0Y8eT3cM4ka-FGYwWlVhPkWKXV4wJv7A"/>](https://youtube.com.br/)  
+[<img align="left" height="94px" width="94px" alt="youtube" src="https://github.com/wesleyroberts/wesleyroberts/assets/69482890/8db45054-72fa-4743-87b3-be3d58bce5fc"/>](https://youtube.com.br/)  
 
 **Creador de Conteúdo** \
 [**Youtube**](https://www.youtube.com/@revisandocodigo9273) • Hobby \
