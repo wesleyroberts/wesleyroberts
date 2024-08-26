@@ -28,7 +28,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Liferay Mid Software Developer** \
 [**Vertigo**](https://vertigo.com.br/) • Full-time \
 Linguagens & Tecnologias: `Java`, `Mysql`, `Docker`, `Freemarker`, `MVC Portlet`, `ElastichSearch`\
-Projetos em destaque: [B3](https://www.b3.com.br/pt_br/para-voce)
+Projetos em destaque: [B3](https://www.b3.com.br/pt_br/para-voce) , [CNP Seguradora](https://www.b3.com.br/pt_br/para-voce](https://www.cnpseguradora.com.br/parcerias/correios/funeral-mais-seguro))
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Liferay" src="https://github.com/wesleyroberts/wesleyroberts/assets/69482890/c6b9f118-0b86-4082-9a8a-37ed33765959"/>](https://www.liferay.com/)
