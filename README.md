@@ -23,6 +23,14 @@ class Skills extends Desenvolvedor {
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://imgs.search.brave.com/Q9Ae-esOyA39GpMpeAmGZkFJm-rOnzRhKzTEJiaN5rM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9hdHRh/Y2htZW50cy5ndXB5/LmlvL3Byb2R1Y3Rp/b24vY29tcGFuaWVz/LzU1MS9jYXJlZXIv/NzE0ODgvaW1hZ2Vz/LzIwMjMtMDQtMTRf/MTQtMjhfY29tcGFu/eUxvZ29VcmwucG5n"/>](https://www.indracompany.com/en/minsait)
+
+**Liferay Senior Software Developer** \
+[**Minsait**](https://www.indracompany.com/en/minsait) • Full-time \
+Linguagens & Tecnologias: `Java`, `Mysql`, `Docker`, `Freemarker`, `MVC Portlet`, `ElastichSearch`, `React`\
+Projetos em destaque: [Gol Air Lines](https://www.voegol.com.br/))
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8eTv96_utQKKErdlSABMGD1ZGHoiKzo9Ezy7AGvEM3JzQT0gfDzITz8OrHn1UefwX8s&usqp=CAU"/>](https://vertigo.com.br/)
 
 **Liferay Mid Software Developer** \
